@@ -2,7 +2,7 @@
 
 项目工具使用的是Eclipse mars+maven3+jdk1.8
 
-该项目中包含了以下内容：
+该项目中包含了以下内容：1
 
 1. SpringBoot入门
 2. 基本用法
